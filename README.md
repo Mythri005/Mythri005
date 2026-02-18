@@ -13,7 +13,7 @@
   <p>
     I'm an aspiring AI & Data Analytics professional passionate about building intelligent solutions 
     that solve real-world problems. I enjoy working on Machine Learning models, data-driven systems, 
-    and full-stack applications that create meaningful impact.
+    and AI based web applications that create meaningful impact.
   </p>
 
   <p>
