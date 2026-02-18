@@ -24,11 +24,11 @@
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     
-  <a href="mailto:mythrikrishna4@gmail.com">
-    <img src="https://img.shields.io/badge/📧_mythrikrishna4@gmail.com-1e1e2e?style=for-the-badge" />
-  </a>
+    <a href="mailto:mythrikrishna4@gmail.com">
+      <img src="https://img.shields.io/badge/📧_mythrikrishna4@gmail.com-1e1e2e?style=for-the-badge" />
+    </a>
 
-  <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(AI_•_Data_Analytics_•_ML)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(AI_•_Data_Analytics_•_ML)-1e1e2e?style=for-the-badge" />
   </p>
 
 <h3>🌐 Socials</h3>
@@ -52,35 +52,49 @@
 ## 🛠️ Skills
 <p align="center">
 <table>
+
 <tr>
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=C++, Python, sql" />
+<img src="https://skillicons.dev/icons?i=cpp,python,mysql" />
 <br/><br/>
+<p>C++, Python, SQL</p>
 
 </td>
 
 <td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=Flask, Rest API, Javascript (basic)" />
-</td>
+<h3>📚 Frameworks & Libraries</h3>
 
+<img src="https://skillicons.dev/icons?i=flask,js" />
+<br/><br/>
+<p>Flask • REST API • JavaScript (Basic)</p>
+
+</td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb, firebase, mysql, sqlite" />
+<h3>🗄️ Databases</h3>
+
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,sqlite" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=Git, Figma, VSCode, Docker(basic)" />
+<h3>🧰 Tools & Platforms</h3>
+
+<img src="https://skillicons.dev/icons?i=git,figma,vscode,docker" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<p>Git • Figma • VS Code • Docker (Basic) • Power BI</p>
+
 </td>
 </tr>
+
 </table>
 </p>
 
