@@ -22,15 +22,15 @@
     practical, scalable, and user-friendly tech solutions.
   </p>
 
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    
-    <a href="mailto:mythrikrishna4@gmail.com">
-      <img src="https://img.shields.io/badge/📧_mythrikrishna4@gmail.com-1e1e2e?style=for-the-badge" />
-    </a>
+ <p>
+<img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
 
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(AI_•_Data_Analytics_•_ML)-1e1e2e?style=for-the-badge" />
-  </p>
+<a href="mailto:mythrikrishna4@gmail.com">
+<img src="https://img.shields.io/badge/📧_mythrikrishna4@gmail.com-1e1e2e?style=for-the-badge" />
+</a>
+
+<img src="https://img.shields.io/badge/🤝_Open_to_Collab_(AI_•_Data_Analytics_•_ML)-1e1e2e?style=for-the-badge" />
+</p>
 
 </div>   <!-- FIXED: Properly closed -->
 
