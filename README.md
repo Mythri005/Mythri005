@@ -8,6 +8,7 @@
 <h3>CSE-AIML Student | Data Analytics • Machine Learning Enthusiast</h3>
 
 <div align="left">
+
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
@@ -31,7 +32,13 @@
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(AI_•_Data_Analytics_•_ML)-1e1e2e?style=for-the-badge" />
   </p>
 
-<h3>🌐 Socials</h3>
+</div>   <!-- FIXED: Properly closed -->
+
+<br clear="all" />
+
+---
+
+<h3 align="left">🌐 Socials</h3>
   
 <p align="left">
   <a href="https://github.com/Mythri005">
@@ -42,10 +49,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 </p>
-
-</div>
-
-<br clear="all" />
 
 ---
 
