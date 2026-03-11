@@ -151,13 +151,15 @@ Machine learning model that generates millet-based diet plans using user health 
 
 ---
 
-# 🏆 GitHub Achievements
+# 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mythri005&theme=onedark&no-frame=true&margin-w=8"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mythri005&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
+<img height="160em" src="https://streak-stats.demolab.com?user=Mythri005&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
