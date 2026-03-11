@@ -9,83 +9,95 @@
 
 <div align="left">
 
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-  <p>
-    I'm an aspiring AI & Data Analytics professional passionate about building intelligent solutions 
-    that solve real-world problems. I enjoy working on Machine Learning models, data-driven systems, 
-    and AI based web applications that create meaningful impact.
-  </p>
+<p>
+Final-year CSE-AIML student passionate about Machine Learning, Data Analytics, and building AI-driven systems.
 
-  <p>
-    From predictive healthcare models to AI-powered learning platforms, I love turning ideas into 
-    practical, scalable, and user-friendly tech solutions.
-  </p>
+I enjoy transforming data into intelligent solutions through ML models, analytics pipelines, and AI-powered applications that solve real-world problems.
+</p>
 
- <p>
+<p>
 <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
 
 <a href="mailto:mythrikrishna4@gmail.com">
-<img src="https://img.shields.io/badge/📧_mythrikrishna4@gmail.com-1e1e2e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📧_Email-1e1e2e?style=for-the-badge" />
 </a>
 
-<img src="https://img.shields.io/badge/🤝_Open_to_Collab_(AI_•_Data_Analytics_•_ML)-1e1e2e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤝_Open_to_Collaboration-1e1e2e?style=for-the-badge" />
 </p>
 
-</div>   <!-- FIXED: Properly closed -->
+</div>
 
 <br clear="all" />
 
 ---
 
-<h3 align="left">🌐 Socials</h3>
-  
-<p align="left">
-  <a href="https://github.com/Mythri005">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
+# 🌐 Connect With Me
 
-  <a href="https://linkedin.com/in/mythrikrishna">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
+<p align="left">
+
+<a href="https://github.com/Mythri005">
+<img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mythrikrishna">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Mythri_07/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/mythrikrishna4">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 🛠️ Skills
+# 🛠️ Skills
+
 <p align="center">
+
 <table>
 
 <tr>
 <td width="50%" align="center">
+
 <h3>💻 Programming Languages</h3>
 
 <img src="https://skillicons.dev/icons?i=cpp,python,mysql" />
 <br/><br/>
-<p>C++, Python, SQL</p>
+
+C++, Python, SQL
 
 </td>
 
 <td width="50%" align="center">
+
 <h3>📚 Frameworks & Libraries</h3>
 
 <img src="https://skillicons.dev/icons?i=flask,js" />
 <br/><br/>
-<p>Flask • REST API • JavaScript (Basic)</p>
+
+Flask • REST API • JavaScript 
 
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
+
 <h3>🗄️ Databases</h3>
 
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,sqlite" />
-<br/><br/>
 
 </td>
 
 <td width="50%" align="center">
+
 <h3>🧰 Tools & Platforms</h3>
 
 <img src="https://skillicons.dev/icons?i=git,figma,vscode,docker" />
@@ -93,39 +105,66 @@
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<p>Git • Figma • VS Code • Docker (Basic) • Power BI</p>
+<br/>
+
+Git • Figma • VS Code • Docker • Power BI
 
 </td>
 </tr>
 
 </table>
+
 </p>
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
-- 📚 **AI Adaptive Learning System with IoT**  
-  Personalized learning platform for students with real-time stress analysis.
+📚 **AI Adaptive Learning System with IoT**  
+Personalized learning platform with real-time stress detection and adaptive learning recommendations.
 
-- 🎮 **Dynamic Gameplay with Agentic AI (2D Stickman Game)**  
-  2D game application with adaptive NPC behavior using reinforcement learning logic.
+🎮 **Dynamic Gameplay with Agentic AI (2D Stickman Game)**  
+2D game with adaptive NPC behavior using reinforcement learning concepts.
 
-- 🥗 **AI-Based Millet Diet Recommendation System**  
-  AI model to generate millet-based diet plans based on user health inputs.
+🥗 **AI-Based Millet Diet Recommendation System**  
+Machine learning model that generates millet-based diet plans using user health data.
 
 ---
 
-## 📊 GitHub Stats
+# 🧠 Problem Solving
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/Mythri_07"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mythri005&theme=dark&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=Mythri005&theme=dark&hide_border=true"/>
+
 </div>
 
 ---
 
-## 📈 Contribution Activity
+# 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mythri005&theme=github-compact&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mythri005&theme=darkhub&no-frame=true&no-bg=true&margin-w=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mythri005&theme=github-compact&hide_border=true"/>
+
 </div>
