@@ -5,16 +5,14 @@
   Hi, I'm <strong>Mythri</strong>
 </h1>
 
-<h3>CSE-AIML Engineer Graduate | Data Analytics • Machine Learning Enthusiast</h3>
+<h3>Software Engineer | Machine Learning | Data Analytics | AI Enthusiast</h3>
 
 <div align="left">
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
 <p>
-CSE-AIML graduate passionate about Machine Learning, Data Analytics, and building AI-driven systems.
-
-I enjoy transforming data into intelligent solutions through ML models, analytics pipelines, and AI-powered applications that solve real-world problems.
+Computer Science (AI & ML) graduate passionate about Software Engineering, Machine Learning, and Data Analytics. I enjoy building scalable software, developing intelligent AI solutions, and transforming data into meaningful insights through machine learning models, analytics pipelines, and real-world applications. Continuously learning modern technologies while strengthening problem-solving and software development skills.
 </p>
 
 <p>
@@ -24,7 +22,7 @@ I enjoy transforming data into intelligent solutions through ML models, analytic
 <img src="https://img.shields.io/badge/📧_Email-1e1e2e?style=for-the-badge" />
 </a>
 
-<img src="https://img.shields.io/badge/🤝_Open_to_Collaboration-1e1e2e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤝_Open to Opportunities-1e1e2e?style=for-the-badge" />
 </p>
 
 </div>
@@ -77,12 +75,12 @@ C++, Python, SQL
 
 <td width="50%" align="center">
 
-<h3>📚 Frameworks & Libraries</h3>
+<h3>📚 Frameworks & Technologies</h3>
 
 <img src="https://skillicons.dev/icons?i=flask,js" />
 <br/><br/>
 
-Flask • REST API • JavaScript 
+Flask • REST APIs • JavaScript 
 
 </td>
 </tr>
@@ -93,6 +91,9 @@ Flask • REST API • JavaScript
 <h3>🗄️ Databases</h3>
 
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,sqlite" />
+<br/><br/>
+
+MongoDB • Firebase • MySQL • SQLite
 
 </td>
 
@@ -121,13 +122,23 @@ Git • Figma • VS Code • Docker • Power BI
 # 🚀 Projects
 
 📚 **AI Adaptive Learning System with IoT**  
-Personalized learning platform with real-time stress detection and adaptive learning recommendations.
+AI-powered adaptive learning platform integrating computer vision, IoT, and real-time stress detection to personalize educational content.
 
 🎮 **Dynamic Gameplay with Agentic AI (2D Stickman Game)**  
-2D game with adaptive NPC behavior using reinforcement learning concepts.
+Developed a 2D game featuring adaptive NPC behavior using agent-based decision making and reinforcement learning concepts.
 
 🥗 **AI-Based Millet Diet Recommendation System**  
-Machine learning model that generates millet-based diet plans using user health data.
+Machine learning-based recommendation system that generates personalized millet diet plans using health parameters and predictive analytics.
+
+---
+
+# 💡 Interests
+
+- Software Engineering
+- Machine Learning
+- Data Analytics
+- Problem Solving
+- Backend Development
 
 ---
 
@@ -138,16 +149,6 @@ Machine learning model that generates millet-based diet plans using user health 
 <img src="https://leetcard.jacoblin.cool/Mythri_07"/>
 
 </p>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Mythri005&theme=dark&hide_border=true"/>
-
-</div>
 
 ---
 
